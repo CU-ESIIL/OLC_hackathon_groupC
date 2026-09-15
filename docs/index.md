@@ -1,5 +1,5 @@
----
-title: OLC Climate Resiliency Hackathon Project
+Cecelia Two Lance, Corey Lawrence, and Amanda Ruiz---
+title: Seven-Direction Framework for Biological Effects of Climate Change
 public_mode_toggle: true
 ---
 
@@ -21,6 +21,8 @@ public_mode_toggle: true
     [Edit the team page in Markdown](https://github.com/CU-ESIIL/hackathon_group_OASIS/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
 
 *One sentence describing the question, place, or possibility your team is exploring.*
+
+Our project is approaching the Seven-Direction Framework for Biological Effects of Climate Change. This incorporates our cultures viewpoint and values of Mitakuye Oyasin, we are all related and connected. As well as, Kapemni, as above so below, further emphasizing our reflection and connection to all. Specifically utilizing the natural elements like earth, wind, fire, water, plants and animals, sky, and center (within us/ourselves).
 
 ![Team hero image](assets/hero/hero.png)
 
@@ -92,6 +94,7 @@ What would count as progress by noon on September 16:
 
 This matters because:
 
+This project is important because it will change the publics viewpoint of the way they see our natural world, rebuild connection back with our original teachings, unite communites, as we remain resilient through adaptions with a changing climate.
 ...
 
 People who might use, question, or improve this work:
