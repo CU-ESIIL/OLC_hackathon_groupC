@@ -1,7 +1,8 @@
-Cecelia Two Lance, Corey Lawrence, and Amanda Ruiz---
-title: Seven-Direction Framework for Biological Effects of Climate Change
-public_mode_toggle: true
 ---
+# REZilient Bits : Seven Direction Framework for Biological Effects of Climate Change
+*Incorporating our cultures viewpoint and values of Mitakuya Oyasin, we are all related and connected.*
+---
+![Team hero image](assets/hero/hero.png)
 
 !!! tip "Start here — September 15–16, 2026"
     This page is your team’s shared workspace, public project story, and final report-out. Keep **Instructions on** while working, turn them **off** to preview the public page, and select **Hackathon Report Out** for the short presentation view.
@@ -44,7 +45,7 @@ Our project is approaching the Seven-Direction Framework for Biological Effects 
 
 | Name | Affiliation | Contact | Starting role |
 |---|---|---|---|
-|  |  |  |  |
+| Cecelia Two Lance | Hackathon Participant | Team |  |
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
