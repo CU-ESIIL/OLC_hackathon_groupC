@@ -7,10 +7,6 @@
 Our project is approaching the Seven Direction Framework for Biological Effects of Climate Change. As well as, Kapemni, as above so below, further emphasizing our reflection and connection to all. Specifically utilizing the natural elements like earth, wind, fire, water, plants and animals, sky, and center (within us/ourselves). We will be showing one aspect through chokecherries that can potentially be used for other species.
 
 
-[See the completed OLC example](olc-example.md){ .md-button .md-button--primary }
-[See the completed fire example](example.md){ .md-button }
-[Open the Hackathon directions](instructions.md){ .md-button }
-
 ## People and Roles
 
 | Name | Tribal Affiliation | Contact | Starting role |
@@ -19,30 +15,17 @@ Our project is approaching the Seven Direction Framework for Biological Effects 
 | Amanda Ruiz | Rosebud Sioux Tribe | Hackathon Participant | Team ReZilient Bitz | 
 | Corey Lawrence | Cheyenne River Sioux Tribe | Hackathon Participant | Team ReZilient Bitz | 
 
-## Team Norms and Decision Making { #team-norms-and-decision-making }
+## Team Norms and Decision Making
 
 Our team norms:
-
-- Prioritize Mitakuye Oyasin, we are not seperate 
-- Maintain
-- Ensure
+- Prioritize Mitakuye Oyasin, we are not seperate, we are all connected.
+- Maintain balance.
+- Ensure healing of our people and our lands.
 
 Our decision rule:
+Building relationships.
 
-Our
-
-## Our Question 📣 { #project-question .oasis-report-out-section }
-
-!!! note "Question → Evidence"
-    Write one question narrow enough to investigate during the Hackathon. Name what would count as progress. The question can change when the evidence shows it should.
-
-    The three OLC pathways are parallel options, not ability levels:
-
-    - **Guided Explorer:** explain what available evidence shows and does not show.
-    - **Data Investigator:** compare evidence, coverage, or assumptions.
-    - **Technical Extender:** test or extend a reproducible method.
-
-    [Edit the question and evidence](https://github.com/CU-ESIIL/hackathon_group_OASIS/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
+## Our Question 📣 
 
 Our working question: Being a good relative, how can we as data scientists promote healing through prioritizing Mitakuye Oyasin, we are not seperate
 Using the Seven Direction Framework for Biological Effects of Climate Change. As well as, Kapemni, as above so below, further emphasizing our reflection and connection to all. Specifically utilizing the natural elements like earth, wind, fire, water, plants and animals, sky, and center (within us/ourselves). We will be showing one aspect through chokecherries that can potentially be used for other species.
@@ -100,6 +83,9 @@ Our chosen pathway and why it fit:
 |---|---|---|---|---|
 | ... | ... | ... | ... | ... |
 
+
+
+
 !!! warning "Public data is a boundary, not blanket permission"
     This Hackathon uses public datasets so teams can focus on environmental data science, building, interpretation, and communication during a short event. Public availability does not mean the data represent every relevant perspective or authorize every interpretation or use.
 
@@ -125,11 +111,15 @@ Methods, tools, or approaches we tried:
 
 [Open shared code](https://github.com/CU-ESIIL/hackathon_group_OASIS/tree/main/code){ .md-button target="_blank" rel="noopener" }
 
-### Working visual or output
+### Working visual and output
 
-![Working figure, map, screenshot, or prototype](assets/figures/figure1.png)
-
+![Working figure, map, screenshot, or prototype](assets/hero/Chokecherry data.png)
+Species occurrences near Pine Ridge 
 *Describe what this artifact shows, what evidence produced it, and why it matters.*
+
+![Working figure, map, screenshot, or prototype](assets/hero/Screenshot 2026-09-16 104128.png)
+![Working figure, map, screenshot, or prototype](assets/hero/Screenshot 2026-09-16 104351.png)
+
 
 ### Failed attempts and useful obstacles
 
