@@ -27,52 +27,31 @@ Building relationships.
 
 ## Our Question 📣 
 
-Our working question: Being a good relative, how can we as data scientists promote healing through prioritizing Mitakuye Oyasin, we are not seperate
+Being a good relative, how can we as data scientists promote healing through prioritizing Mitakuye Oyasin, we are not seperate
 Using the Seven Direction Framework for Biological Effects of Climate Change. As well as, Kapemni, as above so below, further emphasizing our reflection and connection to all. Specifically utilizing the natural elements like earth, wind, fire, water, plants and animals, sky, and center (within us/ourselves). We will be showing one aspect through chokecherries that can potentially be used for other species.
 
-...
 
-What would count as progress by noon on September 16:
-Exploratory research on current available data
-...
+# Who helped define it? Whose priorities does it reflect? Who might frame it differently? Do the available public data fit the question, or are they merely convenient?
 
-!!! question "Sovereignty checkpoint 1 — Who framed the question?"
-    Who helped define it? Whose priorities does it reflect? Who might frame it differently? Do the available public data fit the question, or are they merely convenient?
 Real Life Experience as witness to affects and effects on our people, our communities and our sacred lands helped define our project focus. 
-Those who might frame it differently may potentially have a diverse cultural lens to gain understanding and adapting these views 
-    Record unresolved answers honestly. Completing this prompt is not sovereignty certification or a substitute for a locally appropriate data-governance process.
+Those who might frame it differently may potentially have a diverse cultural lens to gain understanding and adapting these views. Record unresolved answers honestly. Completing this prompt is not sovereignty certification or a substitute for a locally appropriate data-governance process.
 
-## Why This Matters 📣 { #why-this-matters .oasis-report-out-section }
+## Why This Matters 📣
 
-!
-
-This matters because: Diverse lenses help define unique aspects. Building relationships, can prove helpful n development of creative solutions. 
+This matters because diverse lenses help define unique aspects. Building relationships, can prove helpful n development of creative solutions. 
 
 This project is important because it will change the publics viewpoint of the way they see our natural world, rebuild connection back with our original teachings, unite communites, as we remain resilient through adaptions with a changing climate.
-...
 
-People who might use, question, or improve this work:
+# People who might use, question, or improve this work:
 
-...
+College students, tribal members, community, and everyone.
 
-## What We Tried to Build 📣 { #what-we-tried-to-build .oasis-report-out-section }
+## What We Tried to Build 📣
 
-!!! note "Representation → Build"
-    Choose the smallest useful artifact: a figure, comparison, map, notebook, workflow, model, prototype, educational resource, or clearly documented attempt. Scientific usefulness matters more than software complexity.
+We are trying to employ cultural views to current models.
 
-    [Edit the intended build](https://github.com/CU-ESIIL/hackathon_group_OASIS/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
+Our chose to use Chokecherry data that is already available through our OLC GitHub.
 
-By the end of the Hackathon, we tried to make:
-
-...
-
-Our chosen pathway and why it fit:
-
-...
-
-![Working notes, sketch, or whiteboard](assets/whiteboards/hackathon_working_notes.svg)
-
-*Working notes showing the question, intended artifact, and evidence boundary.*
 
 ## Data and Evidence { #data-and-evidence }
 
@@ -84,16 +63,6 @@ Our chosen pathway and why it fit:
 | ... | ... | ... | ... | ... |
 
 
-
-
-!!! warning "Public data is a boundary, not blanket permission"
-    This Hackathon uses public datasets so teams can focus on environmental data science, building, interpretation, and communication during a short event. Public availability does not mean the data represent every relevant perspective or authorize every interpretation or use.
-
-    **Accessible ≠ interpretable ≠ actionable**
-
-    - **Accessible:** Can we obtain and analyze the data?
-    - **Interpretable:** What claims can the observations support?
-    - **Actionable:** Is there enough evidence, context, relationship, review, and authority for a real decision?
 
 !!! question "Sovereignty checkpoint 2 — What does the evidence represent?"
     Does its spatial and temporal scale match the question? What is missing? Who collected and transformed it? Could someone with different knowledge of the place interpret it differently? Should the evidence change the question?
@@ -123,12 +92,9 @@ Species occurrences near Pine Ridge
 
 ### Failed attempts and useful obstacles
 
-- ...
+If we had more time we would include water data, soil, temperature changes, and actually run the data through python for this species and other species overtime.
 
-!!! info "Want to go further? CubeDynamics is optional"
-    CubeDynamics can support reproducible labeled-array workflows, but it is not required for a successful project. As of September 2026, the official project is prerelease and has no public PyPI or GitHub Release installation. Use only a facilitator-provided, checksum-verified setup, keep the scientific question ahead of the software, and see the [optional CubeDynamics guide](instructions/cubedynamics.md).
-
-## What We Made { #what-we-made }
+## What We Made
 
 !!! note "Artifact first"
     Link the strongest artifact directly. If it is incomplete, say what works, what does not, and what another team would need to continue.
