@@ -1,35 +1,17 @@
-# REZilient Bits : Seven Direction Framework for Biological Effects of Climate Change
+# REZilient Bitz : Seven Direction Framework for Biological Effects of Climate Change
 *Incorporating our cultures viewpoint and values of Mitakuya Oyasin, we are all related and connected.*
 
-![Team hero image](assets/hero/sustainability-hero.png)
-
-!!! tip "Start here — September 15–16, 2026"
-    This page is your team’s shared workspace, public project story, and final report-out. Keep **Instructions on** while working, turn them **off** to preview the public page, and select **Hackathon Report Out** for the short presentation view.
+![Image shows the flow of resiliency of biological processes](assets/hero/sustainability-hero.png)
 
     Follow one clear path: **Question → Evidence → Representation → Build → Interpret → Uncertainty → Stewardship → Share**.
 
-    Minimum success is one focused question, one visible artifact or well-documented attempt, one evidence-backed learning, one honest uncertainty, and one responsible next step. Technical complexity is optional.
-
-!!! warning "Before writing on a public site"
-    Use only material appropriate for public GitHub. Do not add culturally sensitive knowledge, protected locations, private or community-controlled data, personal information, restricted stewardship material, or claims of review or approval that have not occurred.
-
 # This is now my awesome project
-
-!!! note "First edit"
-    Replace the page title and heading with your project name. Add a short subtitle that tells visitors what you are exploring.
-
-    [Edit the team page in Markdown](https://github.com/CU-ESIIL/hackathon_group_OASIS/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
 
 *One sentence describing the question, place, or possibility your team is exploring.*
 
-Our project is approaching the Seven-Direction Framework for Biological Effects of Climate Change. This incorporates our cultures viewpoint and values of Mitakuye Oyasin, we are all related and connected. As well as, Kapemni, as above so below, further emphasizing our reflection and connection to all. Specifically utilizing the natural elements like earth, wind, fire, water, plants and animals, sky, and center (within us/ourselves).
+Our project is approaching the Seven-Direction Framework for Biological Effects of Climate Change. As well as, Kapemni, as above so below, further emphasizing our reflection and connection to all. Specifically utilizing the natural elements like earth, wind, fire, water, plants and animals, sky, and center (within us/ourselves).
 
 ![Team hero image](assets/hero/hero.png)
-
-!!! note "Replace the hero image"
-    Upload a wide public-safe image to `docs/assets/hero/` and replace `hero.png`, or update the Markdown path above. Write alt text that explains the image.
-
-    [Open the hero-image folder](https://github.com/CU-ESIIL/hackathon_group_OASIS/tree/main/docs/assets/hero){ .md-button target="_blank" rel="noopener" }
 
 [See the completed OLC example](olc-example.md){ .md-button .md-button--primary }
 [See the completed fire example](example.md){ .md-button }
@@ -44,7 +26,9 @@ Our project is approaching the Seven-Direction Framework for Biological Effects 
 
 | Name | Affiliation | Contact | Starting role |
 |---|---|---|---|
-| Cecelia Two Lance | Hackathon Participant | Team |  |
+| Cecelia Two Lance | Oglala Lakota Sioux Tribe | Hackathon Participant | Team |  |
+| Amanda Ruiz | Rosebud Sioux Tribe | Hackathon Participant | 
+| Corey Lawrence | Cheyenne River Sioux Tribe | 
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
