@@ -3,7 +3,6 @@
 
 ![Image shows the flow of resiliency of biological processes](assets/hero/sustainability-hero.png)
 
-    Follow one clear path: **Question → Evidence → Representation → Build → Interpret → Uncertainty → Stewardship → Share**.
 
 # This is now my awesome project
 
@@ -17,18 +16,13 @@ Our project is approaching the Seven-Direction Framework for Biological Effects 
 [See the completed fire example](example.md){ .md-button }
 [Open the Hackathon directions](instructions.md){ .md-button }
 
-## People { #people }
+## People and Roles
 
-!!! note "Day 1 — quick introductions"
-    Add one short row per teammate. Share what you know, what you hope to learn, and which role you can take first. Roles can change as the work changes.
-
-    [Edit People](https://github.com/CU-ESIIL/hackathon_group_OASIS/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
-
-| Name | Affiliation | Contact | Starting role |
+| Name | Tribal Affiliation | Contact | Starting role |
 |---|---|---|---|
-| Cecelia Two Lance | Oglala Lakota Sioux Tribe | Hackathon Participant | Team |  |
-| Amanda Ruiz | Rosebud Sioux Tribe | Hackathon Participant | 
-| Corey Lawrence | Cheyenne River Sioux Tribe | 
+| Cecelia Two Lance | Oglala Lakota Sioux Tribe | Hackathon Participant | Team ReZilient Bitz |
+| Amanda Ruiz | Rosebud Sioux Tribe | Hackathon Participant | Team ReZilient Bitz | 
+| Corey Lawrence | Cheyenne River Sioux Tribe | Hackathon Participant | Team ReZilient | 
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
