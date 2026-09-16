@@ -1,7 +1,6 @@
----
 # REZilient Bits : Seven Direction Framework for Biological Effects of Climate Change
 *Incorporating our cultures viewpoint and values of Mitakuya Oyasin, we are all related and connected.*
----
+
 ![Team hero image](assets/hero/hero.png)
 
 !!! tip "Start here — September 15–16, 2026"
