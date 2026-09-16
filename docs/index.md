@@ -6,7 +6,6 @@
 
 Our project is approaching the Seven Direction Framework for Biological Effects of Climate Change. As well as, Kapemni, as above so below, further emphasizing our reflection and connection to all. Specifically utilizing the natural elements like earth, wind, fire, water, plants and animals, sky, and center (within us/ourselves). We will be showing one aspect through chokecherries that can potentially be used for other species.
 
-![Team hero image](assets/hero/hero.png)
 
 [See the completed OLC example](olc-example.md){ .md-button .md-button--primary }
 [See the completed fire example](example.md){ .md-button }
@@ -231,6 +230,9 @@ What those people should help frame, interpret, question, or review:
 
 !!! note "Final handoff"
     Add stable source links, licenses or terms, citations, and concise reproduction notes. Run the [site completion coach](_site_health.md) for reminders; it is an editing aid, not scientific, ethical, sovereignty, or community approval.
+
+![Team hero image](assets/hero/hero.png)
+
 
 - **Source curriculum:** [OLC Climate Resiliency and Digital Sovereignty Learning Lab](https://github.com/olc-techsupport/Education-Climate-Resiliency-Digital-Sovereignty) [@olcClimateResiliency]
 - **Code/notebooks:** ...
