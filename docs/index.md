@@ -4,11 +4,7 @@
 ![Image shows the flow of resiliency of biological processes](assets/hero/sustainability-hero.png)
 
 
-# This is now my awesome project
-
-*One sentence describing the question, place, or possibility your team is exploring.*
-
-Our project is approaching the Seven-Direction Framework for Biological Effects of Climate Change. As well as, Kapemni, as above so below, further emphasizing our reflection and connection to all. Specifically utilizing the natural elements like earth, wind, fire, water, plants and animals, sky, and center (within us/ourselves).
+Our project is approaching the Seven Direction Framework for Biological Effects of Climate Change. As well as, Kapemni, as above so below, further emphasizing our reflection and connection to all. Specifically utilizing the natural elements like earth, wind, fire, water, plants and animals, sky, and center (within us/ourselves). We will be showing one aspect through chokecherries that can potentially be used for other species.
 
 ![Team hero image](assets/hero/hero.png)
 
@@ -22,7 +18,7 @@ Our project is approaching the Seven-Direction Framework for Biological Effects 
 |---|---|---|---|
 | Cecelia Two Lance | Oglala Lakota Sioux Tribe | Hackathon Participant | Team ReZilient Bitz |
 | Amanda Ruiz | Rosebud Sioux Tribe | Hackathon Participant | Team ReZilient Bitz | 
-| Corey Lawrence | Cheyenne River Sioux Tribe | Hackathon Participant | Team ReZilient | 
+| Corey Lawrence | Cheyenne River Sioux Tribe | Hackathon Participant | Team ReZilient Bitz | 
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
@@ -31,13 +27,13 @@ Our project is approaching the Seven-Direction Framework for Biological Effects 
 
 Our team norms:
 
-- ...
-- ...
-- ...
+- Prioritize 
+- Maintain
+- Ensure
 
 Our decision rule:
 
-...
+Our
 
 ## Our Question 📣 { #project-question .oasis-report-out-section }
 
@@ -67,8 +63,7 @@ What would count as progress by noon on September 16:
 
 ## Why This Matters 📣 { #why-this-matters .oasis-report-out-section }
 
-!!! note "Connect the work to people without overclaiming"
-    Explain the potential value and intended audience. Do not describe an impact, partnership, consultation, or endorsement that has not happened.
+!
 
 This matters because:
 
