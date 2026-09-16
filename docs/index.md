@@ -63,10 +63,6 @@ Our chose to use Chokecherry data that is already available through our OLC GitH
 | ... | ... | ... | ... | ... |
 
 
-
-!!! question "Sovereignty checkpoint 2 — What does the evidence represent?"
-    Does its spatial and temporal scale match the question? What is missing? Who collected and transformed it? Could someone with different knowledge of the place interpret it differently? Should the evidence change the question?
-
 ## Methods and Tools { #methods-and-tools }
 
 !!! note "Document the build as it happens"
@@ -82,12 +78,11 @@ Methods, tools, or approaches we tried:
 
 ### Working visual and output
 
-![Working figure, map, screenshot, or prototype](assets/hero/Chokecherrydata.png)
-Species occurrences near Pine Ridge 
-*Describe what this artifact shows, what evidence produced it, and why it matters.*
+![Working figure, map, screenshot, or prototype](https://github.com/CU-ESIIL/OLC_hackathon_groupC/blob/main/docs/assets/hero/Chockecherry%20data.png)
+Species occurrences near Pine Ridge Reservation
 
-![Working figure, map, screenshot, or prototype](assets/hero/Screenshot2026-09-16104128.png)
-![Working figure, map, screenshot, or prototype](assets/hero/Screenshot2026-09-16104351.png)
+![Working figure, map, screenshot, or prototype](https://github.com/CU-ESIIL/OLC_hackathon_groupC/blob/main/docs/assets/hero/Screenshot%202026-09-16%20104128.png)
+![Working figure, map, screenshot, or prototype](https://github.com/CU-ESIIL/OLC_hackathon_groupC/blob/main/docs/assets/hero/Screenshot%202026-09-16%20104351.png)
 
 
 ### Failed attempts and useful obstacles
