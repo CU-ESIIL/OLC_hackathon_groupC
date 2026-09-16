@@ -44,7 +44,7 @@ Our
 
     [Edit the question and evidence](https://github.com/CU-ESIIL/hackathon_group_OASIS/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
 
-Our working question: Being a good relative, how can we as data scientists promote healing through prioritizing Mitakuye Oyasin, we are not seperate
+Our working question: Being a good relative, how can we as data scientists promote healing through prioritizing Mitakuye Oyasin, we are not seperate.
 Using the Seven Direction Framework for Biological Effects of Climate Change. As well as, Kapemni, as above so below, further emphasizing our reflection and connection to all. Specifically utilizing the natural elements like earth, wind, fire, water, plants and animals, sky, and center (within us/ourselves). We will be showing one aspect through chokecherries that can potentially be used for other species.
 
 ...
