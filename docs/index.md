@@ -44,24 +44,26 @@ Our
 
     [Edit the question and evidence](https://github.com/CU-ESIIL/hackathon_group_OASIS/edit/main/docs/index.md){ .md-button target="_blank" rel="noopener" }
 
-Our working question:
+Our working question: Being a good relative, how can we as data scientists promote healing through prioritizing Mitakuye Oyasin, we are not seperate
+Using the Seven Direction Framework for Biological Effects of Climate Change. As well as, Kapemni, as above so below, further emphasizing our reflection and connection to all. Specifically utilizing the natural elements like earth, wind, fire, water, plants and animals, sky, and center (within us/ourselves). We will be showing one aspect through chokecherries that can potentially be used for other species.
 
 ...
 
 What would count as progress by noon on September 16:
-
+Exploratory research on current available data
 ...
 
 !!! question "Sovereignty checkpoint 1 — Who framed the question?"
     Who helped define it? Whose priorities does it reflect? Who might frame it differently? Do the available public data fit the question, or are they merely convenient?
-
+Real Life Experience as witness to affects and effects on our people, our communities and our sacred lands helped define our project focus. 
+Those who might frame it differently may potentially have a diverse cultural lens to gain understanding and adapting these views 
     Record unresolved answers honestly. Completing this prompt is not sovereignty certification or a substitute for a locally appropriate data-governance process.
 
 ## Why This Matters 📣 { #why-this-matters .oasis-report-out-section }
 
 !
 
-This matters because:
+This matters because: Diverse lenses help define unique aspects. Building relationships, can prove helpful n development of creative solutions. 
 
 This project is important because it will change the publics viewpoint of the way they see our natural world, rebuild connection back with our original teachings, unite communites, as we remain resilient through adaptions with a changing climate.
 ...
