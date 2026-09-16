@@ -113,12 +113,12 @@ Methods, tools, or approaches we tried:
 
 ### Working visual and output
 
-![Working figure, map, screenshot, or prototype](assets/hero/Chokecherry data.png)
+![Working figure, map, screenshot, or prototype](assets/hero/Chokecherrydata.png)
 Species occurrences near Pine Ridge 
 *Describe what this artifact shows, what evidence produced it, and why it matters.*
 
-![Working figure, map, screenshot, or prototype](assets/hero/Screenshot 2026-09-16 104128.png)
-![Working figure, map, screenshot, or prototype](assets/hero/Screenshot 2026-09-16 104351.png)
+![Working figure, map, screenshot, or prototype](assets/hero/Screenshot2026-09-16104128.png)
+![Working figure, map, screenshot, or prototype](assets/hero/Screenshot2026-09-16104351.png)
 
 
 ### Failed attempts and useful obstacles
