@@ -228,7 +228,7 @@ What those people should help frame, interpret, question, or review:
 !!! note "Final handoff"
     Add stable source links, licenses or terms, citations, and concise reproduction notes. Run the [site completion coach](_site_health.md) for reminders; it is an editing aid, not scientific, ethical, sovereignty, or community approval.
 
-![Team hero image](assets/hero/hero.png)
+![Team hero image](assets/hero/T-FINAL02.png)
 
 
 - **Source curriculum:** [OLC Climate Resiliency and Digital Sovereignty Learning Lab](https://github.com/olc-techsupport/Education-Climate-Resiliency-Digital-Sovereignty) [@olcClimateResiliency]
