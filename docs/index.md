@@ -21,12 +21,9 @@ Our project is approaching the Seven Direction Framework for Biological Effects 
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
-!!! note "Keep this fast"
-    Choose two or three norms and one simple decision rule. A five-minute agreement now can prevent a long disagreement later.
-
 Our team norms:
 
-- Prioritize 
+- Prioritize Mitakuye Oyasin, we are not seperate 
 - Maintain
 - Ensure
 
