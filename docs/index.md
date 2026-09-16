@@ -79,7 +79,8 @@ Methods, tools, or approaches we tried:
 ### Working visual and output
 
 ![Working figure, map, screenshot, or prototype](https://github.com/CU-ESIIL/OLC_hackathon_groupC/blob/main/docs/assets/hero/Chockecherry%20data.png)
-Species occurrences near Pine Ridge Reservation
+*Species occurrences near Pine Ridge Reservation*
+*Prunus virginia*
 
 ![Working figure, map, screenshot, or prototype](https://github.com/CU-ESIIL/OLC_hackathon_groupC/blob/main/docs/assets/hero/Screenshot%202026-09-16%20104128.png)
 ![Working figure, map, screenshot, or prototype](https://github.com/CU-ESIIL/OLC_hackathon_groupC/blob/main/docs/assets/hero/Screenshot%202026-09-16%20104351.png)
